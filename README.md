@@ -1,6 +1,6 @@
 ## Welcome to Metacraft Offical Web Site
 
-You can use the [editor on GitHub](https://github.com/CHIPPYHD/Metacraft.Ro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aici veti gasii cele mai tari mini-gameuri si cea mai minunata comunitate de minecraft!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
